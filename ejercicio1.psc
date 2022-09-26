@@ -3,5 +3,5 @@ Algoritmo ejercicio_2
 	num= 0
 	Escribir "Dime un numero"
 	Leer num
-	
+	EJERCICIO PARA MAÑANA
 FinAlgoritmo
