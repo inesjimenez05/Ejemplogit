@@ -5,4 +5,5 @@ Algoritmo ejercicio_2
 	Leer num
 	EJERCICIO PARA MAÑANA
 	clonar el repositorio y subir los cambios
+este mensaje ha sido creado el día 26/09 a las 20:21
 FinAlgoritmo
