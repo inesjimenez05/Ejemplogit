@@ -4,4 +4,5 @@ Algoritmo ejercicio_2
 	Escribir "Dime un numero"
 	Leer num
 	EJERCICIO PARA MAÑANA
+	clonar el repositorio y subir los cambios
 FinAlgoritmo
